@@ -1,3 +1,5 @@
+github.com/9d4/remote-touchpad v0.0.0-20250724084611-8c2bf7e4f43f h1:UQmwR74yvONjz4vSxFfEfxbaCL1GE8DdPKDSBLYUBQU=
+github.com/9d4/remote-touchpad v0.0.0-20250724084611-8c2bf7e4f43f/go.mod h1:ftYTxhteOKqPKld4mHopjaoMYDBsAwpi3TJLSjoow/Y=
 github.com/bendahl/uinput v1.7.0 h1:nA4fm8Wu8UYNOPykIZm66nkWEyvxzfmJ8YC02PM40jg=
 github.com/bendahl/uinput v1.7.0/go.mod h1:Np7w3DINc9wB83p12fTAM3DPPhFnAKP0WTXRqCQJ6Z8=
 github.com/godbus/dbus/v5 v5.1.0 h1:4KLkAxT3aOY8Li4FRJe/KvhoNFFxo0m6fNuFUO8QJUk=
